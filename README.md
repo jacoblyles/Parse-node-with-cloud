@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/parse-node-with-cloud.svg)](https://badge.fury.io/js/parse-node-with-cloud)
 
-This library is for running Parse code in node.js. Very useful for testing! 
+This library is for running Parse cloud code in node.js. It provides a `Parse` object with `Parse.Cloud` defined. This is very useful for unit testing your cloud code! 
 
 Usage:
 

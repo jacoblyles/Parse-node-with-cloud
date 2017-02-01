@@ -1,5 +1,5 @@
 {
-  "name": "parse-with-cloud",
+  "name": "parse-node-with-cloud",
   "version": "0.0.1",
   "description": "Enable parse cloud functions in node.js",
   "main": "index.js",

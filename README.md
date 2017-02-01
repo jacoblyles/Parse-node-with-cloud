@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/parse-node-with-cloud.svg)](https://badge.fury.io/js/parse-node-with-cloud)
+
 This library is for running Parse code in node.js. Very useful for testing! 
 
 Usage:

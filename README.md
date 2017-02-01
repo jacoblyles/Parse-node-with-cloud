@@ -12,3 +12,11 @@ Or if Parse is already defined:
 const addParseCloud = require('parse-node-with-cloud').addParseCloud;
 addParseCloud();
 ```
+
+And then you are free to use all the `Parse.Cloud` functions:
+
+```
+Parse.Cloud.beforeSave("MyData", function(request,response) { .... });
+```
+
+& etc. 
